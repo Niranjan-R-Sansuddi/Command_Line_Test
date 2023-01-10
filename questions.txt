@@ -1,0 +1,50 @@
+1. Who Founded Linux Kernel ?
+A. Ken Thompson and Dennis Ritchie
+B. Linus Torvalds
+C. Linus Torvalds and Ken Thompson
+D. Richard 
+2. What is the Core of Linux Operating System ?
+A. Vi Ediitor
+B. Command Line
+C. Terminal
+D. Kernel
+3. Which Symbol Reperesents Top Level Directory ?
+A. ~
+B. @
+C. #
+D. /
+4. Which Symbol Represents User Home Directory ?
+A. !
+B.'
+C. ~
+D. /
+5. Which Command is used to Remove Files ?
+A. remove
+B. rm
+c. delete
+D. Del
+6. Which Linux Command with VI Editor can delete single character ?
+A. d
+B. r
+C. x
+D. c
+7. Which Linux Command will give Present Working Directory ?
+A. pwd
+B. cd
+C. head
+D. tail
+8. What is the command to list the contents of directory ?
+A. ls
+B. date
+C. print 
+D. pwd
+9. Which is command to give full list of COntents of Directory?
+A. ls-a
+B. ls -list
+C. ls-l
+D. ls-ls
+10. Which is command to know the type of Command ?
+A. Commandtype
+B. man 
+C. Manual_Command
+D. type
